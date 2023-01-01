@@ -1,5 +1,5 @@
 ---
-title: "Case_study"
+title: "Case study: How Does a Bike-Share Navigate Speedy Success?"
 author: "Cristian Robayna"
 date: "2022-12-18"
 output:
